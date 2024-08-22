@@ -139,6 +139,12 @@ legend {
 }
 
 @font-face {
+	font-family: 'SFProDisplay-Medium';
+	src: url(../fonts/SFProDisplay-Medium.woff2) format('woff2');
+	font-weight: 400;
+}
+
+@font-face {
 	font-family: 'SFProDisplay-Semibold';
 	src: url(../fonts/SFProDisplay-Semibold.woff2) format('woff2');
 	font-weight: 600;
